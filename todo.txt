@@ -1,0 +1,8 @@
+TODO
+
+Syntax highlighting.
+Readme with install instructions.
+
+DONE
+
+I forget.
