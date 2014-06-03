@@ -11,4 +11,4 @@ Available in the sublime package manager soon.
 
 Obligatory Screenshot
 ===
-![Screenshot](https://raw.github.com/dpinney/gridlabSublime/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/dpinney/gridlabSublime/master/screenshot.png)
