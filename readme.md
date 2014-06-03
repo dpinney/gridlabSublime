@@ -1,11 +1,11 @@
 gridlabSublime
 ===
 
-A package for adding (1) a build system to run .glm files in sublime text and (2) syntax highlighting.
+A package for adding (1) a build system to run .glm files inside sublime text via Ctrl+B and (2) syntax highlighting.
 
-Install
+Manual Install
 ===
-Put all these files inside a folder named "Gridlab" inside your Sublime packages folder (open it via Preferences > Browse Packages...)
+Put all these files inside a folder named "Gridlab" inside your Sublime packages folder (open it via the Sublime menu at Preferences > Browse Packages...).
 
 Available in the sublime package manager soon.
 
