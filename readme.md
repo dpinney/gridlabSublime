@@ -8,3 +8,7 @@ Install
 Put all these files inside a folder named "Gridlab" inside your Sublime packages folder (open it via Preferences > Browse Packages...)
 
 Available in the sublime package manager soon.
+
+Obligatory Screenshot
+===
+![Screenshot](https://raw.github.com/dpinney/gridlabSublime/images/screenshot.png)
