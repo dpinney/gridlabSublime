@@ -1,7 +1,7 @@
 gridlabSublime
 ===
 
-A package for adding (1) build system to run .glm files in sublime text and (2) syntax highlighting.
+A package for adding (1) a build system to run .glm files in sublime text and (2) syntax highlighting.
 
 Install
 ===
