@@ -13,3 +13,8 @@ Othwerise, put all these files inside a folder named "Gridlab" inside your Subli
 Obligatory Screenshot
 ===
 ![Screenshot](https://raw.githubusercontent.com/dpinney/gridlabSublime/master/screenshot.png)
+
+License Terms
+===
+
+This code is available under an [MIT license](https://raw.githubusercontent.com/dpinney/gridlabSublime/master/license.txt).
